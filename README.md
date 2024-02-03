@@ -26,6 +26,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Lorenzo Beccaria | Concept Art 1B | Team Koffing | [GitHub](https://github.com/SaltyBroccolo) |
+
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
