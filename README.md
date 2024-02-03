@@ -25,6 +25,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
+| | Fabio Ronchi | Concept Art | Team Koffing | [GitHub](https://github.com/Fabio-Ronchi) |
 | | Nome Cognome |  |  | [GitHub]() |
 
 ## 3D Game Art
