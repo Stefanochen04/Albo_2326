@@ -20,6 +20,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Matteo Lorenzini |  |  | [GitHub](https://github.com/MatteoLorenzini96) |
 | | Franco Nardeschi |  |  | [GitHub](https://github.com/Oaks54) |
 | | Davide Fedeli |  |  | [GitHub](https://github.com/Bestianich) |
 | | Lorenzo Moschini |  |  | [GitHub](https://github.com/LoreMosca) |
