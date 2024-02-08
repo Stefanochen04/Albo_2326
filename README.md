@@ -42,6 +42,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 | | Daphnee Demuru |  |  | [GitHub](https://github.com/ppasce) |
 | | Akira Familio | Concept Art  |  | [GitHub](https://github.com/Familio-Akira) |
 | | Nome Cognome |  |  | [GitHub]() |
+| | Mariantonietta Pisano |  |  | [GitHub](https://github.com/Mariantonietta-Pisano) |
 | | Gabriel Mannini |  |  | [GitHub](https://github.com/Gabriel-Mannini) |
 | | Laura Tosi |  |  | [GitHub](https://github.com/RedEthanx) |
 | | Lorenzo Beccaria | Concept Art 1B | Team Koffing | [GitHub](https://github.com/SaltyBroccolo) |
