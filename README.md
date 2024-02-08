@@ -54,6 +54,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
+| | Nome Cognome |  |  | [GitHub]() |
+| | Giuseppe Blando |  |  | [GitHub](https://github.com/GiuseppeBlando) |
 | | Michele Boni| 3D Game Art | Magikarp | [[GitHub](https://github.com/MikhaelZeB)]() |
 | | Michele Sassone |  |  | [GitHub](https://github.com/MicheleSassone) |
 | | Gaia Collivignarelli |  |  | [GitHub]() |
