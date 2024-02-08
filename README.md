@@ -21,16 +21,38 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
 | | Lorenzo Moschini |  |  | [GitHub](https://github.com/LoreMosca) |
+| | Tommaso Pistoi |  |  | [GitHub](https://github.com/TommasoPistoi) |
+| | Sofia Renda |  |  | [GitHub](https://github.com/50fi4) |
+| | Massimo Tricoli |  |  | [GitHub]() |
+| | Davide Alex Biasibetti | Game Design | Koffing | [GitHub](https://github.com/Alex9cento) |
+| | Noemi Sossella | Game Design | Team Ratata | [GitHub](https://github.com/NoemiSossella) |
+| | Giulia Lippi Marchetti |  |  | [GitHub]() |
+| | Edoardo Tagliati |  |  | [GitHub]() |
 
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Alessia Zirone |  |  | [GitHub](https://github.com/AlessiaZirone) |
+| | Lorena Di Muro |  |  | [GitHub](https://github.com/LorenaDiMuro) |
+| | Gaia Collivignarelli |  |  | [GitHub]() |
+| | Giacomo Panconi |  |  | [GitHub]() |
+| | Rebecca Dini |  |  | [GitHub]() |
+| | Ivan Yao |  |  | [GitHub]() |
+| | Fabio Ronchi |  |  | [GitHub]() |
+| | Filippo Marini |  |  | [GitHub]() |
+| | Ylenia Guidetti |  |  | [GitHub]() |
+| | Lorenzo Martini |  |  | [GitHub]() |
+| | Andrea Oleandro | Concept Art | Magikarp | [GitHub](https://github.com/AndreaOleandro) |
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Gaia Collivignarelli |  |  | [GitHub]() |
+| | Anna Giulia Dorelli |  |  | [GitHub]() |
+| | Alessandro Perini |  |  | [GitHub]() |
+| | Andrea Spotti |  |  | [[GitHub]()](https://github.com/AndreaSp04) |
 
 ## Programming
 |   | Nome | Corso | Team | Url |
