@@ -31,6 +31,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Alessia Zirone |  |  | [GitHub](https://github.com/AlessiaZirone) |
 | | Lorena Di Muro |  |  | [GitHub](https://github.com/LorenaDiMuro) |
 | | Gaia Collivignarelli |  |  | [GitHub]() |
 | | Giacomo Panconi |  |  | [GitHub]() |
