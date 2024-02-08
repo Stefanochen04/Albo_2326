@@ -20,6 +20,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Lorenzo Moschini |  |  | [GitHub](https://github.com/LoreMosca) |
 | | Tommaso Pistoi |  |  | [GitHub](https://github.com/TommasoPistoi) |
 | | Sofia Renda |  |  | [GitHub](https://github.com/50fi4) |
 | | Massimo Tricoli |  |  | [GitHub]() |
