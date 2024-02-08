@@ -34,6 +34,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
+| | Fabio Ronchi | Concept Art | Team Koffing | [GitHub](https://github.com/Fabio-Ronchi) |
 | | Daphnee Demuru |  |  | [GitHub](https://github.com/ppasce) |
 | | Akira Familio | Concept Art  |  | [GitHub](https://github.com/Familio-Akira) |
 | | Nome Cognome |  |  | [GitHub]() |
@@ -46,7 +47,6 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 | | Giacomo Panconi |  |  | [GitHub]() |
 | | Rebecca Dini |  |  | [GitHub]() |
 | | Ivan Yao |  |  | [GitHub]() |
-| | Fabio Ronchi |  |  | [GitHub]() |
 | | Filippo Marini |  |  | [GitHub]() |
 | | Ylenia Guidetti |  |  | [GitHub]() |
 | | Lorenzo Martini |  |  | [GitHub]() |
