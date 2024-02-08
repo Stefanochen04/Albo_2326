@@ -53,6 +53,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
+| | Michele Boni| 3D Game Art | Magikarp | [[GitHub](https://github.com/MikhaelZeB)]() |
 | | Nome Cognome |  |  | [GitHub]() |
 | | Gaia Collivignarelli |  |  | [GitHub]() |
 | | Anna Giulia Dorelli |  |  | [GitHub]() |
