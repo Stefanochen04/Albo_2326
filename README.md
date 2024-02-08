@@ -65,8 +65,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Sasha Di Figlia | Programming | Team Koffing | [GitHub](https://github.com/SashaDiFiglia) |
 | | Gabriele Coppola | Programming | Team Rattata | [GitHub](https://github.com/gabocop99) |
-
 
 ## Docenti
 |   | Nome | Corso | Team | Url |
