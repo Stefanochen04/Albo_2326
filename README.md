@@ -34,6 +34,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Concept Art
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
+| | Akira Familio | Concept Art  |  | [GitHub](https://github.com/Familio-Akira) |
 | | Nome Cognome |  |  | [GitHub]() |
 | | Laura Tosi |  |  | [GitHub](https://github.com/RedEthanx) |
 | | Lorenzo Beccaria | Concept Art 1B | Team Koffing | [GitHub](https://github.com/SaltyBroccolo) |
