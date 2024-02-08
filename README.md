@@ -30,6 +30,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Lorena Di Muro |  |  | [GitHub]() |
 | | Gaia Collivignarelli |  |  | [GitHub]() |
 | | Giacomo Panconi |  |  | [GitHub]() |
 | | Rebecca Dini |  |  | [GitHub]() |
