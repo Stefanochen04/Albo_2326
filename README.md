@@ -35,6 +35,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Lorenzo Beccaria | Concept Art 1B | Team Koffing | [GitHub](https://github.com/SaltyBroccolo) |
 | | Chiara Lecce |  |  | [GitHub](https://github.com/Chiara663) |
 | | Alessia Zirone |  |  | [GitHub](https://github.com/AlessiaZirone) |
 | | Lorena Di Muro |  |  | [GitHub](https://github.com/LorenaDiMuro) |
