@@ -20,6 +20,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
+| | Sofia Renda |  |  | [GitHub](https://github.com/50fi4) |
 | | Massimo Tricoli |  |  | [GitHub]() |
 | | Davide Alex Biasibetti | Game Design | Koffing | [GitHub](https://github.com/Alex9cento) |
 | | Noemi Sossella | Game Design | Team Ratata | [GitHub](https://github.com/NoemiSossella) |
@@ -30,7 +31,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 | | Nome Cognome |  |  | [GitHub]() |
-| | Lorena Di Muro |  |  | [GitHub]() |
+| | Lorena Di Muro |  |  | [GitHub](https://github.com/LorenaDiMuro) |
 | | Gaia Collivignarelli |  |  | [GitHub]() |
 | | Giacomo Panconi |  |  | [GitHub]() |
 | | Rebecca Dini |  |  | [GitHub]() |
